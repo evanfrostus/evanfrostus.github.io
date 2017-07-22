@@ -1,0 +1,218 @@
+body {
+  font-size: 18px;
+  background-color: #f0f0f0;
+}
+.returnTop {
+  position: fixed;
+  bottom: 1em;
+  right: 0;
+  z-index: 999;
+  border-radius: 5px;
+}
+.footer {
+  border-top: 2px solid #fff;
+  text-align: center;
+  padding: 2em;
+  font-weight: 600;
+}
+.header {
+  border-bottom: 0.8px solid #0b0707;
+}
+.header .navbar {
+  background-color: #f0f0f0;
+}
+.header .navbar .navbar-header .navbar-brand {
+  padding: 5px;
+}
+.header .navbar .navbar-header .navbar-brand .logo {
+  max-height: 45px;
+  max-width: 232px;
+}
+.header .navbar .collapse .navbar-nav li .curument {
+  background-color: #ccc;
+}
+.header .navbar .collapse .navbar-nav li a:hover {
+  background-color: #ccc;
+}
+.header .navbar .collapse .navbar-nav li a:active {
+  background-color: #ccc;
+}
+#myCarousel .carousel-caption {
+  padding-bottom: 5em;
+}
+#myCarousel .btn {
+  height: 72px;
+  width: 180px;
+}
+#myCarousel .btn p {
+  font-size: 2.1em;
+  font-weight: 600;
+}
+#myCarousel .item img {
+  width: 100%;
+  height: 22em;
+  opacity: 0.7;
+}
+#myCarousel .left p {
+  color: #fff;
+  font-size: 100px;
+  padding-top: 1em;
+}
+#myCarousel .right p {
+  color: #fff;
+  font-size: 100px;
+  padding-top: 1em;
+}
+#index-clients {
+  margin-top: 1.5em;
+}
+#index-clients .red {
+  color: #f00;
+}
+#index-clients .client-introduce {
+  margin-bottom: 1em;
+  text-align: center;
+}
+#index-clients .client-introduce .c-capture {
+  font-size: 1.2em;
+}
+#index-clients .client-imgs {
+  margin-bottom: 1em;
+}
+#index-clients .client-imgs img {
+  float: left;
+  padding: 0.5em;
+  width: 100%;
+  max-height: 4.25em;
+  vertical-align: middle;
+}
+#index-clients .client-example {
+  margin-top: 4em;
+  text-align: center;
+}
+#index-clients .client-example h2 {
+  border-bottom: 1px solid #f00;
+}
+#index-clients .client-example h3 {
+  font-weight: 700;
+}
+#index-clients .client-example p {
+  font-size: 0.8em;
+  font-weight: 500;
+  text-align: left;
+}
+#serve {
+  padding: 3em;
+  margin-top: 4em;
+  text-align: center;
+  background-image: url("/img/serve-background.jpg");
+  color: rgba(10,10,6,0.96);
+}
+#serve .s-capture {
+  margin: 1em 0;
+  font-size: 1.2em;
+  font-weight: 600;
+}
+#serve .s-content {
+  margin-bottom: 1em;
+  background-color: #f2f2f2;
+  padding: 1.2em;
+}
+#serve .s-content .red {
+  color: #f00;
+  font-size: 1.2em;
+}
+#store {
+  margin: 4em 0;
+  text-align: center;
+}
+#store .store-capture {
+  margin: 1em;
+  font-size: 1.2em;
+  font-weight: 600;
+}
+#store .red {
+  color: #f00;
+}
+#store .store-content {
+  text-align: center;
+  background-color: #fff;
+  padding: 2em;
+  width: 100%;
+  margin-bottom: 1em;
+}
+#clients {
+  text-align: center;
+}
+#clients .clients-title {
+  margin-top: 3.5em;
+}
+#clients .clients-title .red {
+  font-size: 1.8em;
+  color: #f00;
+}
+#clients .clients-imgs {
+  margin: 3.5em 0;
+}
+#clients .clients-imgs img {
+  width: 100%;
+  max-height: 15em;
+  vertical-align: middle;
+}
+#clients .correspond {
+  border-bottom: 2px solid #fff;
+}
+#problems {
+  margin: 3.5em 0;
+  text-align: center;
+}
+#problems .p-title h1 {
+  font-size: 1.8em;
+  margin-bottom: 1em;
+}
+#problems .red {
+  color: #f00;
+}
+#problems .p-content {
+  background-color: #e4e4e4;
+  margin-bottom: 1.4em;
+  padding: 0.8em;
+}
+#problems .p-content h3 {
+  margin-top: 0;
+}
+#problems .p-content p {
+  text-align: left;
+  font-size: 0.7em;
+  font-weight: 580;
+  font-family: "Yanone Kaffeesatz", "微软雅黑", Arial, Helvetica, sans-serif;
+}
+#about {
+  margin: 3.5em 0;
+  text-align: center;
+}
+#about .about-title h1 {
+  font-size: 1.8em;
+  margin-bottom: 1em;
+}
+#about .about-content p {
+  font-size: 0.9em;
+  font-weight: 580;
+}
+#about .red {
+  color: #f00;
+}
+#contact {
+  border-top: 1px solid #fff;
+  margin: 1em 0 3em 0;
+  padding: 2em;
+  text-align: center;
+}
+#contact .red {
+  color: #f00;
+  font-size: 1.8em;
+  margin-bottom: 1.5em;
+}
+#contact .contact-imgs p {
+  margin-bottom: 1.5em;
+}
